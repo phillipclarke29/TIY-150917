@@ -22,4 +22,4 @@ Please sign up to Tello and open that board.
 
 Thanks!
 
-<img src="images/tiy_dog.JPG" alt="Basic App" height="500px" >
+<img src="images/dog.JPG" alt="Basic App" height="500px" >
