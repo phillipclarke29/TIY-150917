@@ -1,0 +1,1 @@
+puts "welcome to Rock Paper Scissors!!!"
