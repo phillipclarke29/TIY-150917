@@ -16,10 +16,6 @@ Anything later that 1.9.0 is fine.
 
 You will also need a text editor - sublime is a good choice
 
-We will be using this Trello board - https://trello.com/b/mZn7EBmk/1509
-
-Please sign up to Tello and open that board. 
-
 Thanks!
 
 <img src="images/dog.JPG" alt="Basic App" height="500px" >
